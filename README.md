@@ -110,5 +110,5 @@ Set up the Python FastAPI server as described in its own repository/documentatio
 
 Ensure all the API endpoints listed in the "Backend & API Pipeline" section are running and accessible from the frontend.
 
-⚠️ Disclaimer
+⚠️ Disclaimer 
 This application is intended for informational purposes only and is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition.
