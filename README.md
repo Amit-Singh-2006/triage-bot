@@ -1,4 +1,4 @@
-https://chayan2006.github.io/triage-bot/
+https://amit-singh-2006.github.io/triage-bot/
 AI Medical Triage Frontend
 This is a comprehensive, single-page web application designed to provide preliminary medical triage using Google's Gemini AI. It allows users to describe their symptoms in multiple languages and receive an instant risk assessment, potential conditions, and advice. The application is built with a focus on accessibility, intuitive UI, and providing immediate guidance in potential emergency situations.
 
